@@ -1,4 +1,4 @@
-# ✨Hiya✨ I'm Victoria Castor
+ <h1 align="center">✨Hiya✨ I'm Victoria Castor</h1>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=vcastor&label=Profile%20views&color=0e75b6&style=flat" alt="vcastor" /> </p>-->
 
   <p align="left"> <a href="https://twitter.com/vcastorv" target="blank"><img src="https://img.shields.io/twitter/follow/vcastorv?logo=twitter&style=for-the-badge" alt="vcastorv" /></a> </p>
@@ -25,7 +25,6 @@ My DMs are open, if I don't reply ASAP just give me time to reply. Maybe I'm in 
   <a href="https://linkedin.com/in/vcastor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vcastor" height="30" width="40" /></a>  
   <a href="https://stackoverflow.com/users/vcastor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vcastor" height="30" width="40" /></a>  
   <a href="https://fb.com/vcastorv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vcastorv" height="30" width="40" /></a>  
-  <a href="https://instagram.com/vcastorv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vcastorv" height="30" width="40" /></a>  
-  <a href="https://discord.gg/VCastor#3134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VCastor#3134" height="30" width="40" /></a>  
+  <a href="https://instagram.com/vcastorv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vcastorv" height="30" width="40" /></a>   
 </p>
 
