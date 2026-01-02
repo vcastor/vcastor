@@ -1,6 +1,6 @@
 <h1 align="center">✨Hiya✨</h1>
 
-My personal web cite [vcastor.com](https://vcastor.com) sometimes crash
+My personal web cite [vcastor.com](https://vcastor.com) sometimes crashes
 but it's really cool.
 
 ```toml
